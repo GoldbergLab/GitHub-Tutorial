@@ -1,2 +1,2 @@
 # GitHub-Tutorial
- A toy repo to learn how to use GitHub
+ A toy repo to learn how to use Git/GitHub
